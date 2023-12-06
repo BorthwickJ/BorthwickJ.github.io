@@ -1,3 +1,4 @@
 ipython==8.15.0
 matplotlib==3.8.0
 Requests==2.31.0
+TensorFlow==2.14.0
